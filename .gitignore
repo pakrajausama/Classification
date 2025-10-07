@@ -7,7 +7,6 @@ result
 sample data
 ESA_Sample.csv
 correl.py
-lulc_random_forest_model.pkl
 processing.py
 sig.py
 train_model.py
